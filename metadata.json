@@ -1,0 +1,6 @@
+{
+  "name": "Pet Registry & Monitoring System",
+  "description": "Web-Based Pet Registry and Monitoring System with QR Code Identification for Dogs and Cats in Irosin, Sorsogon.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
